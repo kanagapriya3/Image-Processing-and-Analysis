@@ -1,2 +1,2 @@
-# Image-Processing-and-Analysis
-Innovative projects in image processing and analysis and deep learning projects
+# Image-Processing-and-Analysis projects
+Innovative projects in image processing and analysis and deep learning algorithms
